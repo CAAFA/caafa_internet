@@ -4,3 +4,5 @@
 
 # mstest test results
 TestResults
+src/App_Data/Dependencies/dependencies.compiled.xml
+src/App_Data/Dependencies/dependencies.xml
